@@ -1,1 +1,2 @@
-# mvc
+#BASIC PHP MVC FRAMEWORK
+#Version: 1.0
